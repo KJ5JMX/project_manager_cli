@@ -36,6 +36,8 @@ Delete a task - python3 main.py delete-task 1 1 1
 
 list all users, projects and tasks - python3 main.py list
 
+RUN pytests tests for feature tests
+
 ## Data
 
 Sotred locally to data.json
