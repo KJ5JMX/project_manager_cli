@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Brandon",
+        "projects": [
+            {
+                "id": 1,
+                "title": "take out trash",
+                "tasks": []
+            },
+            {
+                "id": 2,
+                "title": "DemoProject",
+                "tasks": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Alice",
+        "projects": []
+    },
+    {
+        "id": 3,
+        "name": "TestUser",
+        "projects": []
+    },
+    {
+        "id": 4,
+        "name": "DemoUser",
+        "projects": [
+            {
+                "id": 1,
+                "title": "Demo CLI Project",
+                "tasks": []
+            }
+        ]
+    }
+]
